@@ -1,10 +1,4 @@
 
-<!--
-  GitHub Profile README
-  Repository: NishalKC
-  Keep the repository name identical to your GitHub username.
--->
-
 <div align="center">
 
 # 👋 Hey, I'm Nishal KC
@@ -30,7 +24,7 @@ I'm a student and developer passionate about **software development, artificial 
 - 📊 Learning data analysis and model evaluation
 - 🧠 Interested in NLP, AI agents, robotics, and automation
 - 🚀 Working toward building innovative products and launching my own tech startup
-- 🌱 Believer in learning by building, experimenting, and improving
+- 🌱 Learning by building, experimenting, and improving
 
 > *"Build with purpose. Learn continuously. Create what matters."*
 
@@ -86,7 +80,7 @@ I'm a student and developer passionate about **software development, artificial 
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
       </p>
-      <a href="https://github.com/NishalKC/bloging-App">📂 View Repository</a>
+      <a href="https://github.com/NishalKC/bloging-App">📂 View Repository →</a>
     </td>
     <td width="50%" valign="top">
       <h3>🤖 Heart Stroke Prediction</h3>
@@ -95,7 +89,7 @@ I'm a student and developer passionate about **software development, artificial 
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
       </p>
-      <a href="https://github.com/NishalKC/Heart_stroke_predection">📂 View Repository</a>
+      <a href="https://github.com/NishalKC/Heart_stroke_predection">📂 View Repository →</a>
     </td>
   </tr>
 </table>
@@ -110,29 +104,9 @@ I'm a student and developer passionate about **software development, artificial 
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishalKC&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=NishalKC&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=NishalKC&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub profile trophies" />
-
-</div>
-
----
-
-## 📉 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NishalKC&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
 
 </div>
 
@@ -150,15 +124,13 @@ I'm a student and developer passionate about **software development, artificial 
 
 ## 🎯 My Direction
 
-I'm focused on growing in three connected areas:
-
 | Area | Focus |
 |---|---|
 | 🌐 Web Development | Building useful full-stack applications |
 | 🤖 Artificial Intelligence | Machine Learning, NLP, and intelligent systems |
 | ⚙️ Innovation | Robotics, automation, and future tech products |
 
-My long-term goal is to combine engineering and creativity to build products that solve real problems.
+My long-term goal is to combine engineering and creativity to build products that solve real problems and eventually launch my own tech startup.
 
 ---
 
